@@ -1,1 +1,1 @@
-# HR-ANALYTICS-POWER-BI-
+# Human Resoures-ANALYTICS-POWER-BI-
